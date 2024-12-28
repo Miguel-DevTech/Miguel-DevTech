@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🚀 Sou o Miguel, um Desenvolvedor Front-End em início de carreira, motivado pela busca constante por aprendizado e evolução no mundo da tecnologia.</p>
+<p align="left">🚀 Sou o Miguel, um Desenvolvedor Front-End, motivado pela busca constante por aprendizado e evolução no mundo da tecnologia.</p>
 Perfil no LinkedIn:
 https://www.linkedin.com/in/miguel-nogueira-de-amorim/
 
