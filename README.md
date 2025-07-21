@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, seja bem-vindo(a) ao meu perfil!</h1>
 
 <p align="center">
-  🚀 Sou o <strong>Miguel Amorim</strong>, um Desenvolvedor Front-End motivado pela busca constante por aprendizado e evolução no mundo da tecnologia.
+  🚀 Sou o <strong>Miguel Amorim</strong>, um Desenvolvedor Full-Stack motivado pela busca constante por aprendizado e evolução no mundo da tecnologia.
 </p>
 
 <div align="center">
@@ -64,5 +64,3 @@ Estou focado em aprender a desenvolver aplicações do mundo real que sejam:
 Sinta-se à vontade para me chamar no [LinkedIn](https://www.linkedin.com/in/miguel-nogueira-de-amorim/) — será um prazer trocar ideias com você! 😊
 
 ---
-
-<p align="center">✨ Vamos construir algo incrível juntos! ✨</p>
