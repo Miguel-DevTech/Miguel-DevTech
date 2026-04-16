@@ -1,7 +1,7 @@
-<h1 align="center">👋 Olá, seja bem-vindo(a) ao meu perfil!</h1>
+<h1 align="center">👋 Hello, welcome to my profile!</h1>
 
 <p align="center">
-  🚀 Sou o <strong>Miguel Amorim</strong>, um Desenvolvedor Full-Stack motivado pela busca constante por aprendizado e evolução no mundo da tecnologia.
+  🚀 I'm <strong>Miguel Amorim</strong>, a Front-End Developer building real-world applications with React, Next.js, and TypeScript.
 </p>
 
 <div align="center">
@@ -12,26 +12,26 @@
 
 ---
 
-## 🧠 Sobre mim
+## 🧠 About me
 
-- 🎓 Formado em Desenvolvimento Full-Stack na OneBitCode.
-- 📚 Sempre buscando novos conhecimentos e tecnologias para aplicar em projetos reais.
-- 💡 Movido por curiosidade, determinação e vontade de evoluir como profissional.
-- 🤝 Valorizo o trabalho em equipe e acredito na colaboração para o crescimento mútuo.
-
----
-
-## 🎯 Objetivo Profissional
-
-Estou focado em aprender a desenvolver aplicações do mundo real que sejam:
-
-- 🧱 Tecnicamente sólidas  
-- 👨‍💻 Funcionais e escaláveis  
-- 💙 Com foco na experiência do usuário  
+- 🎓 Certified in Full-Stack Development from OneBitCode
+- 📚 Constantly learning and exploring new technologies
+- 💡 Driven by curiosity, consistency, and the desire to grow as a developer
+- 🤝 I value teamwork and believe in collaboration for mutual growth
 
 ---
 
-## ⚙️ Tecnologias que utilizo
+## 🎯 Carrer Goal
+
+I am focused on building real-world applications that are:
+
+- 🧱 Technically solid  
+- 👨‍💻 Functional and scalable 
+- 💙 User-focused 
+
+---
+
+## ⚙️ Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
@@ -44,23 +44,20 @@ Estou focado em aprender a desenvolver aplicações do mundo real que sejam:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="SASS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="GraphQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
 </div>
 
 ---
 
-## 🤔 Como posso contribuir?
+## 🤔 How Can I Contribute?
 
-- 👂 Disposição para ouvir, aprender e crescer junto.
-- 💼 Adaptável às necessidades de diferentes projetos.
-- 💬 Abertura para troca de ideias, colaboração e evolução constante.
+- 👂 Open to learning and improving continuously
+- 💼 Adaptable to different project needs
+- 💬 Open to collaboration and knowledge sharing
 
 ---
 
-## 💬 Vamos conversar?
+## 💬 Let's Connect
 
-Sinta-se à vontade para me chamar no [LinkedIn](https://www.linkedin.com/in/miguel-nogueira-de-amorim/) — será um prazer trocar ideias com você! 😊
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/miguel-nogueira-de-amorim/) — I’d be happy to connect!
 
 ---
